@@ -1,0 +1,7 @@
+- Total number of outbreaks recorded by CDC from 1998-2015 = 19119
+- In some outbreaks (n = 5255), species was identified even though food was not identified, which implies that culprit was found by testing non-food sources (e.g. preparation surfaces, employees)
+- In cases where food was identified (n = 10156, 53.1%), ingredient was never identified.
+- In no cases was a serotype/genotype reported when a species was not identified
+- Number of cases where food and species were identified = 7,245 (37.9%)
+- Number of cases where neither food nor species were identified = 3,708 (19.4%)
+
