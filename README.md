@@ -12,4 +12,7 @@
 
 ![Sources](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/sources.png)
 
+![Food_Given_Disease](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/food_given_disease.png)
+
+![Disease_Given_Food](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/disease_given_food.png)
 
