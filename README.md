@@ -1,16 +1,15 @@
 ### Foodborne Outbreaks
 
-![Sources](https://github.com/heathcliffs34/capstone_1/blob/master/figures/sources.png)
+![Sources](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/etiologies.png)
 
-![Etiologies](https://github.com/heathcliffs34/capstone_1/blob/master/figures/etiologies.png)
+![Mortality](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/mortality_and_rate.png)
 
-![Mortality](https://github.com/heathcliffs34/capstone_1/blob/master/figures/fatalities.png)
+![In-Hospital-Mortality](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/mortality_per_hospitalization.png)
 
-![Mortality Rate](https://github.com/heathcliffs34/capstone_1/blob/master/figures/mortality_per_illness.png)
+![Top-Hospital-Mortality](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/top_hospitalizations_fatality_rates.png)
 
-![Mortality per Hospitalization](https://github.com/heathcliffs34/capstone_1/blob/master/figures/mortality_per_hospitalization.png)
+![Hospitalization-Rates](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/hospitalizations_per_illness.png)
 
-![Mortality Rates Among Most Hospitalized](https://github.com/heathcliffs34/capstone_1/blob/master/figures/top_hospitalizations_fatality_rates.png)
+![Sources](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/sources.png)
 
-![Hospitalization Rate](https://github.com/heathcliffs34/capstone_1/blob/master/figures/hospitalizations_per_illness.png)
 
