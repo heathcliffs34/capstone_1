@@ -50,11 +50,6 @@
 <br />
 <br />
 
-![Hospitalization-Rates](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/hospitalizations_per_illness.png)
-
-<br />
-<br />
-
 ![Sources](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/sources.png)
 
 <br />
