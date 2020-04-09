@@ -32,6 +32,10 @@
 <br />
 
 ![In-Hospital-Mortality](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/mortality_per_hospitalization.png)
+- Rotavirus is common among children
+    - Young people have high resilience so may be more advanced disease at the time of presentation
+    - No curative treatment available
+- Listeria can cause meningitis in newborns, and pregnant women are advised to avoid unpasteurized dairy
 
 <br />
 <br />
@@ -67,9 +71,6 @@
 <br />
 
 # Reportable Infectious Diseases in Maine: 2007 Summary
-
-<br />
-<br />
 
 “Enteric diseases - Giardiasis, campylobacteriosis, and salmonellosis were the three most commonly reported enteric infections in Maine in 2007. Multiple outbreaks of gastrointestinal disease were reported during the year; an etiologic agent was not identified in many cases.”
 
