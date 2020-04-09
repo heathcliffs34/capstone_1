@@ -31,27 +31,60 @@
 <br />
 <br />
 
-![In-Hospital-Mortality](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/mortality_per_hospitalization.png)  
+![In-Hospital-Mortality](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/mortality_per_hospitalization.png)
 
-![Top-Hospital-Mortality](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/top_hospitalizations_fatality_rates.png)  
+<br />
+<br />
 
-![Hospitalization-Rates](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/hospitalizations_per_illness.png)  
+![Top-Hospital-Mortality](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/top_hospitalizations_fatality_rates.png)
 
-![Sources](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/sources.png)  
+<br />
+<br />
 
-![Food_Given_Disease](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/food_given_disease.png)  
+![Hospitalization-Rates](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/hospitalizations_per_illness.png)
 
-![Disease_Given_Food](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/disease_given_food.png)  
+<br />
+<br />
 
-![Annual_State_Illnesses](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/annual_states.png)  
+![Sources](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/sources.png)
+
+<br />
+<br />
+
+![Food_Given_Disease](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/food_given_disease.png)
+
+<br />
+<br />
+
+![Disease_Given_Food](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/disease_given_food.png)
+
+<br />
+<br />
+
+![Annual_State_Illnesses](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/annual_states.png)
+
+<br />
+<br />
 
 # Reportable Infectious Diseases in Maine: 2007 Summary
 
-“Enteric diseases - Giardiasis, campylobacteriosis, and salmonellosis were the three most commonly reported enteric infections in Maine in 2007. Multiple outbreaks of gastrointestinal disease were reported during the year; an etiologic agent was not identified in many cases.”  
+<br />
+<br />
 
-![Norovirus](https://github.com/heathcliffs34/capstone_1/blob/master/norovirus.png)  
+“Enteric diseases - Giardiasis, campylobacteriosis, and salmonellosis were the three most commonly reported enteric infections in Maine in 2007. Multiple outbreaks of gastrointestinal disease were reported during the year; an etiologic agent was not identified in many cases.”
 
-![Norovirus-Winter](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/norovirus_winter.png)  
+<br />
+<br />
 
-![Bacillus-Rice](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/bacillus_rice.png)  
+![Norovirus](https://github.com/heathcliffs34/capstone_1/blob/master/norovirus.png)
+
+<br />
+<br />
+
+![Norovirus-Winter](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/norovirus_winter.png)
+
+<br />
+<br />
+
+![Bacillus-Rice](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/bacillus_rice.png)
 
