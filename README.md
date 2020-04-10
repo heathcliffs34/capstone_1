@@ -29,8 +29,8 @@
 <br />
 
 ![Sources](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/etiologies.png)
-- Salmonella is the cause of typhoid, and was the subject of a well-known epidemiologic study that traced numerous outbreaks to Mary Mallon AKA Typhoid Mary in New York in the early 20th century
 - Norovirus is well-known for causing gastroenteritis on cruise ships
+- Salmonella is the cause of typhoid, and was the subject of a well-known epidemiologic study that traced numerous outbreaks to Mary Mallon AKA Typhoid Mary in New York in the early 20th century
 - Staphylococcus aureus
     - Commonly known as ‘Staph infection,’ especially if it occurs on the skin
     - Named MRSA if it is resistant to methicillin, an antibiotic in the penicillin family
@@ -44,7 +44,7 @@
 - Listeria causes both the highest absolute and relative number of fatalities
 - Mycotoxins are fungal-derived toxins that can pass through the food chain without being degraded by digestion
 - Botulism primarily affects infants who don’t yet have a full complement gut flora
-- Cholera infections are highly correlated with sanitation
+- Cholera infections have strong inverse correlation with sanitation
 
 <br />
 <br />
@@ -58,7 +58,7 @@
 <br />
 <br />
 
-![Top-Hospital-Mortality](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/top_hospitalizations_fatality_rates.png)
+![Top-Hospital-Mortality](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/top_hospitalization_fatality_rates.png)
 
 <br />
 <br />
