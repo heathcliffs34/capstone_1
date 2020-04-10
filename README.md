@@ -1,9 +1,9 @@
 # Foodborne Illness Outbreaks
-- Common cause of disease
+### Common cause of disease
 - 48 million people get sick each year in the United States
 - 128,000 hospitalizations
 - 3,000 deaths
-- Terminology
+### Terminology
     - Foodborne illness
         - Medical: gastroenteritis
 - Common: food poisoning
@@ -13,13 +13,13 @@
     - Fungus
     - Parasite
 - Infection: pathogen causing disease
-- Treatment
+### Treatment
     - Supportive care
         - Oral rehydration salts
         - Intravenous fluids
     - Antibiotics typically do not improve outcomes, and are generally reserved for cases requiring hospitalization
     - Some anti-toxins are effective
-- Data
+### Data
     - CDC foodborne illness outbreak investigation reports
     - Obtained from Kaggle
     - 19,119 investigations from 1998 - 2015
