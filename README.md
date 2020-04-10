@@ -1,11 +1,30 @@
-# Foodborne Outbreaks
+# Foodborne Illness Outbreaks
+- Common cause of disease
 - 48 million people get sick each year in the United States
 - 128,000 hospitalizations
 - 3,000 deaths
-- Medical terminology: gastroenteritis
-- Lay term: food poisoning
-- Can be caused by a variety of bacteria, viruses, fungi, and parasites
-- Treatment is typically supportive, meaning oral or intravenous hydration; antibiotics is typically not required but may be helpful if hospitalization is required
+- Terminology
+    - Foodborne illness
+        - Medical: gastroenteritis
+- Common: food poisoning
+- Pathogen: an organism with potential to cause disease; typically:
+    - Virus
+    - Bacteria
+    - Fungus
+    - Parasite
+- Infection: pathogen causing disease
+- Treatment
+    - Supportive care
+        - Oral rehydration salts
+        - Intravenous fluids
+    - Antibiotics typically do not improve outcomes, and are generally reserved for cases requiring hospitalization
+    - Some anti-toxins are effective
+- Data
+    - CDC foodborne illness outbreak investigation reports
+    - Obtained from Kaggle
+    - 19,119 investigations from 1998 - 2015
+    - Source (food) identified in 10,156 outbreaks (53.1%)
+    - Etiology (cause) identified in 16,500 outbreaks (65.4%)
 
 <br />
 <br />
@@ -51,16 +70,24 @@
 <br />
 
 ![Sources](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/sources.png)
+- Inaccurate natural language processing limits generalizability in this representation
+- Inconsistencies with how similar exposures were recorded
+- Multiple foods listed in individual outbreaks with unclear relationship
 
 <br />
 <br />
 
+# If the source (food) of an outbreak is known, what is the probability of each potential etiology (cause)?
 ![Food_Given_Disease](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/food_given_disease.png)
+- For readability, only data from foods with minimum (n > 100) number of illnesses were included
+- Again, innacture natural language processing dilutes this effect
 
 <br />
 <br />
 
+# If the etiology(cause) of an outbreak is known, what is the probability it came from each potential source(food)?
 ![Disease_Given_Food](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/disease_given_food.png)
+- All diseases are represented, but manual cleaning was employed to select targets, which were reported in a hetergeneous way
 
 <br />
 <br />
@@ -83,9 +110,13 @@
 <br />
 
 ![Norovirus-Winter](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/norovirus_winter.png)
+- Prior probability includes that ‘disease’ is a given
+- Non-overlapping curves suggest that norovirus’ nickname is warranted
 
 <br />
 <br />
 
 ![Bacillus-Rice](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/bacillus_rice.png)
+- If Bacillus cereus is identified, food source is most likely rice
+- Classic teaching from medical school that is also supported by this data
 
