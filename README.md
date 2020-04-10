@@ -78,15 +78,14 @@
 
 # If the source (food) of an outbreak is known, what is the probability of each potential etiology (cause)?
 ![Food_Given_Disease](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/food_given_disease.png)
-- For readability, only data from foods with minimum (n > 100) number of illnesses were included
-- Again, innacture natural language processing dilutes this effect
+- For readability, only top 25 foods and diseases were included
+- Again, innacture natural language processing distorts effect
 
 <br />
 <br />
 
 # If the etiology(cause) of an outbreak is known, what is the probability it came from each potential source(food)?
 ![Disease_Given_Food](https://github.com/heathcliffs34/capstone_1/blob/master/figures/present/disease_given_food.png)
-- All diseases are represented, but manual cleaning was employed to select targets, which were reported in a hetergeneous way
 
 <br />
 <br />
