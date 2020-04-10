@@ -8,11 +8,7 @@
 - Foodborne illness
     - Medical: gastroenteritis
 - Common: food poisoning
-- Pathogen: an organism with potential to cause disease; typically
-- Virus
-- Bacteria
-- Fungus
-- Parasite
+- Pathogen: an organism with potential to cause disease (virus, bacteria, fungus, parasite)
 - Infection: pathogen causing disease
 
 ### Treatment
