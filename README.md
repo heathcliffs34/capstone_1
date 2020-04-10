@@ -3,28 +3,31 @@
 - 48 million people get sick each year in the United States
 - 128,000 hospitalizations
 - 3,000 deaths
+
 ### Terminology
-    - Foodborne illness
-        - Medical: gastroenteritis
+- Foodborne illness
+    - Medical: gastroenteritis
 - Common: food poisoning
 - Pathogen: an organism with potential to cause disease; typically:
-    - Virus
-    - Bacteria
-    - Fungus
-    - Parasite
+- Virus
+- Bacteria
+- Fungus
+- Parasite
 - Infection: pathogen causing disease
+
 ### Treatment
-    - Supportive care
-        - Oral rehydration salts
-        - Intravenous fluids
-    - Antibiotics typically do not improve outcomes, and are generally reserved for cases requiring hospitalization
-    - Some anti-toxins are effective
+- Supportive care
+    - Oral rehydration salts
+    - Intravenous fluids
+- Antibiotics typically do not improve outcomes, and are generally reserved for cases requiring hospitalization
+- Some anti-toxins are effective
+
 ### Data
-    - CDC foodborne illness outbreak investigation reports
-    - Obtained from Kaggle
-    - 19,119 investigations from 1998 - 2015
-    - Source (food) identified in 10,156 outbreaks (53.1%)
-    - Etiology (cause) identified in 16,500 outbreaks (65.4%)
+- CDC foodborne illness outbreak investigation reports
+- Obtained from Kaggle
+- 19,119 investigations from 1998 - 2015
+- Source (food) identified in 10,156 outbreaks (53.1%)
+- Etiology (cause) identified in 16,500 outbreaks (65.4%)
 
 <br />
 <br />
