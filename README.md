@@ -118,3 +118,9 @@
 - If Bacillus cereus is identified, food source is most likely rice
 - Classic teaching from medical school that is also supported by this data
 
+<br />
+<br />
+
+# Illnesses by State
+![Gif](https://github.com/heathcliffs34/capstone_1/blob/master/foodborne_illnesses.gif)
+
